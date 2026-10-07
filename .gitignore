@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX (Fichiers de compilation à ignorer)
+docs/**/*.aux
+docs/**/*.log
+docs/**/*.out
+docs/**/*.toc
+docs/**/*.nav
+docs/**/*.snm
+docs/**/*.fls
+docs/**/*.fdb_latexmk
+docs/**/*.synctex.gz
+
+# Vidéos lourdes
+data/raw/*.mp4
+data/raw/*.mov
