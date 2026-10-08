@@ -41,7 +41,7 @@ Pour exécuter ce projet localement, clonez le dépôt et installez les dépenda
 
 ```bash
 # Cloner le dépôt
-git clone [https://github.com/votre-pseudo/optical-flow.git](https://github.com/votre-pseudo/optical-flow.git)
+git clone [https://github.com/RFitah/optical-flow.git](https://github.com/RFitah/optical-flow.git)
 cd optical-flow
 
 # Installer les dépendances (NumPy, OpenCV, SciPy, Matplotlib)
