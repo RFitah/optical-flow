@@ -12,7 +12,7 @@ Le projet compare plusieurs approches mathématiques face aux défis du monde r�
 1. **Horn-Schunck Classique (Norme $L^2$)** : Approche globale et dense. Implémentation maison du schéma itératif de Jacobi par différences finies.
 2. **Horn-Schunck Multi-échelle (Coarse-to-fine)** : Utilisation d'une pyramide gaussienne pour surmonter les limites de l'approximation de Taylor face aux grands déplacements physiques.
 3. **Lucas-Kanade** : Approche locale et éparse avec suivi des points d'intérêt (algorithme d'OpenCV).
-4. **Dual TV-$L^1$ (Variation Totale)** : Algorithme proximal avancé permettant de préserver les discontinuités nettes des objets (absence de sur-lissage) et d'agir comme un estimateur robuste face aux reflets spéculaires.
+4. **Dual TV- $L^1$ (Variation Totale)** : Algorithme proximal avancé permettant de préserver les discontinuités nettes des objets (absence de sur-lissage) et d'agir comme un estimateur robuste face aux reflets spéculaires.
 
 ## Architecture du Projet
 
